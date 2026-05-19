@@ -7,7 +7,7 @@ function Projects() {
       desc: 'Full-stack MERN app with CRUD, filters, search. React + Node.js + Express + MongoDB.',
       tech: ['React', 'Node', 'Express', 'MongoDB'],
       github: 'https://github.com/khalil-eshu-developer/task-manager',
-      demo: 'http://localhost:5175'
+      demo: 'https://mern-task-manager-gilt.vercel.app'
     },
     {
       icon: 'fa-cloud-sun',
@@ -15,7 +15,7 @@ function Projects() {
       desc: 'Real-time weather with 30+ cities. Pakistan & worldwide. Modern glass morphism UI.',
       tech: ['React', 'Node', 'API', 'MongoDB'],
       github: 'https://github.com/khalil-eshu-developer/weather-app',
-      demo: 'http://localhost:5174'
+      demo: 'https://mern-weather-app-psi.vercel.app'
     },
     {
       icon: 'fa-globe',
