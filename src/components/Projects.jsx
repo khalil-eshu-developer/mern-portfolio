@@ -13,7 +13,7 @@ function Projects() {
       icon: 'fa-cloud-sun',
       title: '🌤️ Weather App',
       desc: 'Real-time weather with 30+ cities. Pakistan & worldwide. Modern glass morphism UI.',
-      tech: ['React', 'Node', 'API', 'MongoDB'],
+      tech: ['React', 'Node', 'API', 'Axios', 'MongoDB'],
       github: 'https://github.com/khalil-eshu-developer/weather-app',
       demo: 'https://mern-weather-app-psi.vercel.app'
     },
@@ -21,7 +21,7 @@ function Projects() {
       icon: 'fa-globe',
       title: '🌐 Landing Page',
       desc: 'Responsive landing page with modern design & animations.',
-      tech: ['HTML5', 'CSS3', 'JavaScript'],
+    tech: ['React', 'React Router', 'CSS3', 'JavaScript', 'Responsive Design'],
       github: 'https://github.com/khalil-eshu-developer',
       demo: 'https://khalil-eshu-developer.github.io/landingpage/'
     }
